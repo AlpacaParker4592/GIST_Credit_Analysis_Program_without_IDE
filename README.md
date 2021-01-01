@@ -1,18 +1,23 @@
 # GIST Credit Analysis Program *beta*(without IDE)
+
 GIST 학점 분석 프로그램을 이용해주셔서 감사드립니다. 이 프로그램은 GIST대학 학부생을 대상으로 본인의 이수 학점, 평점, 졸업요건 확인을 위한 프로그램이며, Python IDE를 설치하지 않으신 분들도 사용할 수 있는 버전의 프로그램입니다.
+
+![Installation_Process](https://user-images.githubusercontent.com/63055303/103422053-dc8f4100-4be2-11eb-939e-417eee11afae.PNG)
 
 ## Execution Process
 1. Code 버튼을 눌러 해당 폴더를 zip 파일로 내려받으십시오.
 2. 압축을 풀고 Design File/GIST_Credit_Analysis_Program.exe를 실행하십시오.
 3. 절차에 따라 실행하시면 귀하의 학점분석표를 보실 수 있습니다.
 
+![Result](https://user-images.githubusercontent.com/63055303/103422228-b918c600-4be3-11eb-8676-11eddf669f9a.PNG)
+
 ## Precautions for Users
 * 해당 프로그램은 **14~20학번 학부생**만 사용 가능합니다. 타대학 출신 대학원생은 사용이 불가능합니다.
     * 현재 재학 중인 19~20학번 학부생만 실행 확인이 되었으며, 그 이외 학번 재학생, 휴학 중, 졸업 이후의 학부생(대학원생 포함)은 확인되지 않았습니다.
 * 해당 프로그램을 원활하게 실행하기 위해서는 실행 시 실행하고자 하는 경로에 ASCII code(영어, 숫자 등)만 있어야 합니다(한글 문자를 비롯한 유니코드 비허용).
     * 예: ```C:\Users\<사용자명: 사용자명 또한 ASCII code여야 함.>\Desktop\GIST_Credit_Analysis_Program```
-    * 해당 문제는 pyinstaller의 unicode 관련 버그로 이해 발생하는 것으로, 해당 버그가 해결될 시 추후 업데이트 때 해결하겠습니다.
-    * [경로명을 ASCII code로만으로 바꾸기 어려운 경우](#Tip)
+    * 해당 문제는 pyinstaller의 unicode 관련 버그로 인해 발생되는 것으로, 추후 해당 버그가 해결될 시 빠른 시일내로 추가 업데이트에서 해결하겠습니다.
+    * [경로명을 ASCII code만으로 바꾸기 어려운 경우](#Tip)
 * 현재 해당 프로그램은 Windows에서만 작동 확인이 되었으며, 이외 운영체제(iOS, Linux 등)에서는 확인되지 않았습니다.
 * Step 2 진행 시 처음 진행하실 때 Python 실행과 관련하여 네트워크 관련 창이 뜰 것입니다. 이때 허용 버튼을 눌러야 프로그램이 원활히 진행됩니다.
 * 해당 프로그램은 ZEUS에 로그인하기 위한 목적으로 귀하의 ID와 비밀번호가 사용됩니다.
@@ -27,11 +32,13 @@ GIST 학점 분석 프로그램을 이용해주셔서 감사드립니다. 이 �
 
 ## Tip
 
-* 경로명을 ASCII code로만으로 바꾸기 어려운 경우
-    * 해당 프로그램은 임시적으로 이러한 경우를 예외 처리하여 그래프 관련 html 파일이 저장된 경로를 나타내도록 했습니다. 상기한 버그가 해결될 때 빠른 시일 내로 업데이트하겠습니다.
+* 경로명을 ASCII code만으로 바꾸기 어려운 경우
+    * 해당 프로그램은 임시적으로 예외 처리하여 그래프 관련 html 파일이 저장된 경로를 자동적으로 나타내도록 했습니다. 상기한 버그가 해결될 때 빠른 시일 내로 업데이트하겠습니다.
+    
+![FilePath](https://user-images.githubusercontent.com/63055303/103422289-07c66000-4be4-11eb-8fcf-999b06e83c96.PNG)
 
 ## Release Notes
-### 0.1.0 버전(2020.12.30)
+### 0.1.0 버전(2021.01.01)
 초기 개발 완료
 #### Future Works
 * 버그 수정(현재 재수강 목적으로 수강한 과목과 성적표에 나와 있는 과목(C+~D+) 학점이 합쳐져 나오는 버그)
