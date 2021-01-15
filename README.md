@@ -2,7 +2,7 @@
 
 GIST 학점 분석 프로그램을 이용해주셔서 감사드립니다. 이 프로그램은 GIST대학 학부생을 대상으로 본인의 이수 학점, 평점, 졸업요건 확인을 위한 프로그램이며, Python IDE를 설치하지 않으신 분들도 사용할 수 있는 버전의 프로그램입니다.
 
-![Installation_Process](https://user-images.githubusercontent.com/63055303/103422053-dc8f4100-4be2-11eb-939e-417eee11afae.PNG)
+![Installation_Process](https://user-images.githubusercontent.com/63055303/104684734-0137fc80-573d-11eb-9467-3e4653896b87.PNG)
 
 ## Execution Process
 1. Code 버튼을 눌러 해당 폴더를 zip 파일로 내려받으십시오.
