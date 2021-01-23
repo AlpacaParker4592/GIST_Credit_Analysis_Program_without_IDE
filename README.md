@@ -20,7 +20,7 @@ GIST 학점 분석 프로그램을 이용해주셔서 감사드립니다. 이 �
 * 해당 프로그램은 **14~20학번 학부생**만 사용 가능합니다. 현재 학사편람이 나오지 않은 관계로 21학번 학부생은 사용이 불가능합니다.
     * 현재 재학 중인 19~20학번 학부생만 실행 확인이 되었으며, 그 이외 학번 재학생, 휴학 중인 학부생은 확인되지 않았습니다.
 * 이 프로그램은 귀하의 졸업 요건을 그래프로 나타내기 쉽도록 졸업 요건 일부를 통합했으며, 귀하께서 수강(이수)한 교과목을 전체적으로 출력하지 않습니다.
-정확한 졸업 요건이나 지금까지 이수한 교과목 전체를 알고자 하는 경우에는 다음 프로그램을 사용하시길 바랍니다.
+정확한 졸업 요건이나 지금까지 이수한 교과목 전체를 알고자 하는 경우에는 다음 URL을 참고하시길 바랍니다.
     * https://colab.research.google.com/drive/1pRaZLyTsbN9RIpmoCs-645dxTWQDM_LQ?usp=sharing&fbclid=IwAR0yx6ptBulpYTaRz9zea9JW7H617tWE518gcrUqDlzWDYFdH73gwfopQ-A
     * https://github.com/wannagraduation/graduation_requirement
 * 해당 프로그램을 처음 실행 시 **Windows의 PC 보호** 창이 뜰 수 있습니다(Windows 운영 체제만 해당).
