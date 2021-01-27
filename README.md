@@ -22,7 +22,7 @@ GIST 학점 분석 프로그램을 이용해주셔서 감사합니다. 이 프�
 * 이 프로그램은 귀하의 졸업 요건을 그래프로 나타내기 쉽도록 졸업 요건 일부를 통합했으며, 귀하께서 수강(이수)한 교과목을 전체적으로 출력하지 않습니다.
 정확한 졸업 요건이나 지금까지 이수한 교과목 전체를 알고자 하는 경우에는 다음 프로그램 URL을 참고하시길 바랍니다.
     * https://www.facebook.com/groups/giststudent/permalink/4097359890334340
-    * [Google Colab 바로가기](https://colab.research.google.com/drive/1pRaZLyTsbN9RIpmoCs-645dxTWQDM_LQ?usp=sharing&fbclid=IwAR0yx6ptBulpYTaRz9zea9JW7H617tWE518gcrUqDlzWDYFdH73gwfopQ-A)
+        * [Google Colab 바로가기](https://colab.research.google.com/drive/1pRaZLyTsbN9RIpmoCs-645dxTWQDM_LQ?usp=sharing&fbclid=IwAR0yx6ptBulpYTaRz9zea9JW7H617tWE518gcrUqDlzWDYFdH73gwfopQ-A)
 * 해당 프로그램을 처음 실행 시 **Windows의 PC 보호** 창이 뜰 수 있습니다(Windows 운영 체제만 해당).
 "추가 정보"를 눌러 나온 "실행" 버튼을 클릭해야 프로그램이 진행됩니다.
     * 그러나 만일 위 프로그램을 신뢰하지 않는 경우 해당 프로그램을 실행하지 마십시오.
