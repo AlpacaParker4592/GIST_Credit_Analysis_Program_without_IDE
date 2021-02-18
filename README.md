@@ -5,8 +5,8 @@ GIST 학점 분석 프로그램을 이용해주셔서 감사합니다. 이 프�
 ![제목 없음-1](https://user-images.githubusercontent.com/63055303/107764440-8ed62e80-6d73-11eb-8251-2542e3a01b10.jpg)
 
 ## Execution Process
-1. Code 버튼을 눌러 해당 폴더를 zip 파일로 내려받으십시오.
-2. 압축을 풀고 Design File 폴더 내 GIST_Credit_Analysis_Program.exe 파일을 실행하십시오.
+1. **Code** 버튼을 눌러 해당 폴더를 zip 파일로 내려받으십시오.
+2. 압축을 풀고 Design File 폴더 내 **GIST_Credit_Analysis_Program.exe** 파일을 실행하십시오.
 3. 절차에 따라 실행하시면 귀하의 학점분석 그래프를 보실 수 있습니다.
    * 현재 제공 데이터: 현재 취득 학점 및 졸업 요건 달성 현황, 전체 및 전공 평균 평점, 달성/미달성한 졸업 요건, 분야별 부전공 달성 현황
 
