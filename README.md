@@ -26,6 +26,7 @@ GIST 학점 분석 프로그램을 이용해주셔서 감사합니다. 이 프�
 자세한 졸업 요건이나 지금까지 이수한 교과목 전체를 알고자 하는 경우에는 다음 URL을 참고하시길 바랍니다.
     * https://www.facebook.com/groups/giststudent/permalink/4097359890334340
         * [Google Colab 졸업요건 분석 프로그램 바로가기](https://colab.research.google.com/drive/1pRaZLyTsbN9RIpmoCs-645dxTWQDM_LQ?usp=sharing&fbclid=IwAR0yx6ptBulpYTaRz9zea9JW7H617tWE518gcrUqDlzWDYFdH73gwfopQ-A)
+        * [광주과학기술원 학사편람(2020년판)](https://college.gist.ac.kr/college/sub03_01_05_10_09.do)
 * 해당 프로그램을 처음 실행 시 **Windows의 PC 보호** 창이 뜰 수 있습니다(Windows 운영 체제만 해당. 다른 운영 체제 확인 안됨).
 "추가 정보"를 누른 다음 "실행" 버튼을 클릭해야 프로그램이 진행됩니다.
     * 만일 위 프로그램을 신뢰하지 않는 경우 해당 프로그램을 실행하지 마십시오.
