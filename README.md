@@ -1,5 +1,5 @@
 # GIST Credit Analysis Program *beta*(without IDE)
-**(2022.01.25)본 프로젝트는 더 이상 업데이트되지 않습니다. 대신 [다른 프로젝트](https://github.com/AlpacaParker4592/gradReqComputerization)를 개발 중이니 참고해주시면 감사하겠습니다.**
+**(2022.01.25)본 프로젝트는 더 이상 업데이트되지 않습니다. 대신 해당 프로그램의 문제점(코드쉐어 과목 처리 등)을 개선한 [다른 프로젝트](https://github.com/AlpacaParker4592/gradReqComputerization)를 개발 중이니 참고해주시면 감사하겠습니다.**
 
 **(2021.04.26)현재 해당 프로그램은 웹사이트 형식으로 전환하기 위해 업데이트를 보류하고 있습니다. 이 점 참고하시길 바랍니다.**<br>
 
