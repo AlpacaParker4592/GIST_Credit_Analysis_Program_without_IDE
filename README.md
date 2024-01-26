@@ -140,3 +140,5 @@ GIST 학점 분석 프로그램을 이용해주셔서 감사합니다. 이 프�
     
         * 원래 나타내려고 했던 결과창
           ![Result](https://user-images.githubusercontent.com/63055303/105740697-c889f580-5f7c-11eb-9ac4-ee25693388aa.PNG)
+## (Legacy) Codes
+[GIST Credit Analysis Program Code](https://github.com/AlpacaParker4592/GIST_Credit_Analysis_Program_Code)
